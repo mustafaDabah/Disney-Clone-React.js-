@@ -26,4 +26,4 @@ The future of this project: <br />
 * you could add movie at watchList , it store at loacal storage .  
 * you could search for movies at search page . 
 
-![2021-07-10_174000](https://user-images.githubusercontent.com/65419936/125168528-439b3d00-e1a6-11eb-8353-cf0b72affed1.png)
+![Untitled](https://user-images.githubusercontent.com/65419936/125168627-b5738680-e1a6-11eb-92d0-45487eec7479.png)
