@@ -25,3 +25,5 @@ The future of this project: <br />
 * create six pages (Home , Search , Login , Watchlist , Details , Soon) .
 * you could add movie at watchList , it store at loacal storage .  
 * you could search for movies at search page . 
+
+![2021-07-10_174000](https://user-images.githubusercontent.com/65419936/125168528-439b3d00-e1a6-11eb-8353-cf0b72affed1.png)
